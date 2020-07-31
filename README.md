@@ -17,6 +17,8 @@ It's possible if you only have VSC (Visual Studio Code).
 
 ## For example
 
+![example](https://github.com/dev4us/source_warehouse/blob/master/images/sample1.gif?raw=true)
+
 1. Drag the source you want to change.
 
 2. Press F1 (Show Command Palette)

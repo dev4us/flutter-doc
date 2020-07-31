@@ -3,14 +3,15 @@
 	"displayName": "flutter doc",
 	"publisher": "dev4us",
 	"description": "Change document specifications as you want",
-	"version": "0.0.1",
+	"version": "1.0.0",
+	"repository" : "https://github.com/dev4us/flutter-doc",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
 	"categories": [
 		"Formatters"
 	],
-	"icon": "https://github.com/dev4us/source_warehouse/blob/master/images/icon.png",
+	"icon": "icons/icon.png",
 	"activationEvents": [
         "onCommand:flutter-doc.htmltojsx"
 	],
