@@ -1,65 +1,37 @@
-# flutter-doc README
+# flutter-doc
 
-This is the README for your extension "flutter-doc". After writing up a brief description, we recommend including the following sections.
+README for extension "flutter-doc". 
 
 ## Features
+Change document specifications as you want
+<br /><br />
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+**Support Function list**
+- - -
+- HTML to JSX
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+It's possible if you only have VSC (Visual Studio Code).
 
-## Extension Settings
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+## For example
 
-For example:
+1. Drag the source you want to change.
 
-This extension contributes the following settings:
+2. Press F1 (Show Command Palette)
 
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
+3. Input Command (ex: HTML to JSX)
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+### 1.0.0 (2020-07-31)
 
-### 1.0.0
+Initial Release Extension
 
-Initial release of ...
+## For more information
 
-### 1.0.1
+* [Developer's Github](https://github.com/dev4us/flutter-doc)
+* [Developer's Blog](https://dev4us.github.io)
 
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**Enjoy Your Hacking!**

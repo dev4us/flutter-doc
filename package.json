@@ -1,22 +1,24 @@
 {
 	"name": "flutter-doc",
 	"displayName": "flutter doc",
+	"publisher": "dev4us",
 	"description": "Change document specifications as you want",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
 	"categories": [
-		"Other"
+		"Formatters"
 	],
+	"icon": "https://github.com/dev4us/source_warehouse/blob/master/images/icon.png",
 	"activationEvents": [
-        "onCommand:flutter-doc.HTML to JSX"
+        "onCommand:flutter-doc.htmltojsx"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "flutter-doc.HTML to JSX",
+				"command": "flutter-doc.htmltojsx",
 				"title": "HTML to JSX"
 			}
 		]
