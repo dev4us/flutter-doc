@@ -37,3 +37,5 @@ Initial Release Extension
 * [Developer's Blog](https://dev4us.github.io)
 
 **Enjoy Your Hacking!**
+
+Icon made by Freepik from www.flaticon.com
